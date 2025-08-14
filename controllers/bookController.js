@@ -10,7 +10,7 @@ exports.addBook = async (req, res) => {
     const book = await Book.create({
       title,
       author,
-      description,
+      descriptio,
       coverImage,
       user: req.user.id,
     });
