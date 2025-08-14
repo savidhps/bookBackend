@@ -1,7 +1,8 @@
 # Book Review Board – Backend
 
 ## Quick Start
-1. Copy `.env.example` to `.env` and update values if needed.
+1. Copy `.env` and update values
+   (check the mail for getting .env file ,.env file will be attached to the mail)
 2. Install dependencies:
    ```bash
    npm install
